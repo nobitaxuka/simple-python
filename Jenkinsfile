@@ -1,4 +1,3 @@
-#edited
 pipeline {
     agent none 
     stages {
